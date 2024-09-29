@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ytm
+Version: 0.0.1
+Summary: Python YouTube Music Web API Client
+Home-page: https://github.com/tombulled/python-youtube-music
+Author: Tom Bulled
+Requires-Python: >=3.0.0
+Requires-Dist: requests
+Provides-Extra: dl
+Requires-Dist: youtube-dl; extra == "dl"
+Requires-Dist: mutagen; extra == "dl"
+Requires-Dist: Pillow; extra == "dl"
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
