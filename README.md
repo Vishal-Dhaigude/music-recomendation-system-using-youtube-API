@@ -49,16 +49,6 @@ YouTube API fetches relevant videos/songs
 
 Recommended music is displayed to the user
 
-📂 Project Structure
-music-recommendation-system/
-│
-├── main.py
-├── youtube_api.py
-├── config.py
-├── requirements.txt
-├── README.md
-
-🔑 Setup & Installation
 
 Clone the repository:
 
